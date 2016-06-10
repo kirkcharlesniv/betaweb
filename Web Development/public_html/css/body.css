@@ -1,0 +1,55 @@
+/*
+All of the Images/Content of this website must
+belong with it's owner and it's reserved terms and conditions
+Copyright to Kirk Charles P. Niverba for this Website
+000Webhost for my Server Hosting
+Apache License 2.0 is Used! Please see the readme in github to see!
+*/
+
+body{
+background-image: url("/pictures/backgrounds/background.jpg");
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    font-family: "Century Gothic", Times, serif;
+    text-align: center;
+    color: white;
+}
+
+#login {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #4d94ff;
+    padding: 10px;
+    font-family: "Century Gothic", Times, serif;
+    text-align: center;
+    color: white;
+}
+
+#contact {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #ff3333;
+    padding: 10px;
+    font-family: "Century Gothic", Times, serif;
+    text-align: center;
+    color: white;
+}
+
+#about {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #ffff4d;
+    padding: 10px;
+    font-family: "Century Gothic", Times, serif;
+    text-align: center;
+    color: white;
+}

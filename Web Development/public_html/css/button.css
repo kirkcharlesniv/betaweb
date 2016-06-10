@@ -1,0 +1,60 @@
+/*
+All of the Images/Content of this website must
+belong with it's owner and it's reserved terms and conditions
+Copyright to Kirk Charles P. Niverba for this Website
+000Webhost for my Server Hosting
+Apache License 2.0 is Used! Please see the readme in github to see!
+*/
+
+input[type="reset"] {
+	background-color:#768d87;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2b665e;
+}
+input[type="reset"]:hover {
+	background-color:#6c7c7c;
+}
+input[type="reset"]:active {
+	position:relative;
+	top:1px;
+}
+
+
+input[type="submit"] {
+	background-color:#7892c2;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+input[type="submit"]:hover {
+	background-color:#476e9e;
+}
+input[type="submit"]:active {
+	position:relative;
+	top:1px;
+}
+
+input[type="text"] { border-color:#cccccc; text-align:center; padding:5px; font-size:14px; border-width:2px; border-radius:50px; border-style:groove; text-shadow:0px 0px 0px rgba(42,42,42,.75);  } 
+input[type="text"]:focus { outline:none; } 
+
+input[type="password"] { border-color:#cccccc; text-align:center; padding:5px; font-size:14px; border-width:2px; border-radius:50px; border-style:groove; text-shadow:0px 0px 0px rgba(42,42,42,.75);  } 
+input[type="password"]:focus { outline:none; } 

@@ -1,0 +1,44 @@
+/*
+All of the Images/Content of this website must
+belong with it's owner and it's reserved terms and conditions
+Copyright to Kirk Charles P. Niverba for this Website
+000Webhost for my Server Hosting
+Apache License 2.0 is Used! Please see the readme in github to see!
+*/
+
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.li a {
+    display: block;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+background-color:#4CAF50;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+a{
+    color: white;
+}
