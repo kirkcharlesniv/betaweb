@@ -1,17 +1,15 @@
-# betaweb
-For live viewing: kirkniverba.netne.net; Coded in HTML, JS, PHP, CSS! Thanks to W3Schools and Stackoverflow for helping me to make this website exist!
+# BetaWeb
 
-© Kirk Charles P. Niverba - BetaWeb Project
+[![KirkNiv BetaWeb Build](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg?maxAge=2592000)]()
+[![KirkNiv Apache License)](https://img.shields.io/badge/license-Apache%20v2-green.svg)]()
+[![KirkNiv BetaWeb Awesome)](https://img.shields.io/badge/Certified-Awesome-blue.svg)]()
 
---------------------------------------------------------------------------------------------------
-APACHE LICENSE - FOR MY WEBSITE
+Making the website free, faster, and safer at all any cost.
 
-The files is distributed with the Apache License;
-Please view the license conditions/limitations and more: http://choosealicense.com/licenses/apache-2.0/
+# Sources
 
-~ This repostory is only for updating the website files and you're free to share, download, and modify files in it.
+<b> W3Schools </b>
 
-~ Limitations: You can't use your own trademark in the source codes either you can delete them, and you can't delete my copyright (©) rights in my codes! Any disobeying in the license can cause you some problems too, you need to delete it or we will delete it for you, and you will be blacklisted here on my repostory!
+<b> Stackoverflow </b>
 
---------------------------------------------------------------------------------------------------
-
+To be continued soon!
